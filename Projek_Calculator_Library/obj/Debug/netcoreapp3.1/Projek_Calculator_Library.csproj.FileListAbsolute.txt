@@ -1,0 +1,10 @@
+D:\source\repos\Projek_Calculator_Library\bin\Debug\netcoreapp3.1\Projek_Calculator_Library.deps.json
+D:\source\repos\Projek_Calculator_Library\bin\Debug\netcoreapp3.1\Projek_Calculator_Library.dll
+D:\source\repos\Projek_Calculator_Library\bin\Debug\netcoreapp3.1\Projek_Calculator_Library.pdb
+D:\source\repos\Projek_Calculator_Library\obj\Debug\netcoreapp3.1\Projek_Calculator_Library.csproj.AssemblyReference.cache
+D:\source\repos\Projek_Calculator_Library\obj\Debug\netcoreapp3.1\Projek_Calculator_Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\Projek_Calculator_Library\obj\Debug\netcoreapp3.1\Projek_Calculator_Library.AssemblyInfoInputs.cache
+D:\source\repos\Projek_Calculator_Library\obj\Debug\netcoreapp3.1\Projek_Calculator_Library.AssemblyInfo.cs
+D:\source\repos\Projek_Calculator_Library\obj\Debug\netcoreapp3.1\Projek_Calculator_Library.csproj.CoreCompileInputs.cache
+D:\source\repos\Projek_Calculator_Library\obj\Debug\netcoreapp3.1\Projek_Calculator_Library.dll
+D:\source\repos\Projek_Calculator_Library\obj\Debug\netcoreapp3.1\Projek_Calculator_Library.pdb

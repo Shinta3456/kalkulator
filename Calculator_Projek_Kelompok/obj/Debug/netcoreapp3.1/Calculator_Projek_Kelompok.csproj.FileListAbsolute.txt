@@ -1,0 +1,17 @@
+D:\source\repos\Calculator_Projek_Kelompok\bin\Debug\netcoreapp3.1\Calculator_Projek_Kelompok.exe
+D:\source\repos\Calculator_Projek_Kelompok\bin\Debug\netcoreapp3.1\Calculator_Projek_Kelompok.deps.json
+D:\source\repos\Calculator_Projek_Kelompok\bin\Debug\netcoreapp3.1\Calculator_Projek_Kelompok.runtimeconfig.json
+D:\source\repos\Calculator_Projek_Kelompok\bin\Debug\netcoreapp3.1\Calculator_Projek_Kelompok.runtimeconfig.dev.json
+D:\source\repos\Calculator_Projek_Kelompok\bin\Debug\netcoreapp3.1\Calculator_Projek_Kelompok.dll
+D:\source\repos\Calculator_Projek_Kelompok\bin\Debug\netcoreapp3.1\Calculator_Projek_Kelompok.pdb
+D:\source\repos\Calculator_Projek_Kelompok\bin\Debug\netcoreapp3.1\Projek_Calculator_Library.dll
+D:\source\repos\Calculator_Projek_Kelompok\bin\Debug\netcoreapp3.1\Projek_Calculator_Library.pdb
+D:\source\repos\Calculator_Projek_Kelompok\obj\Debug\netcoreapp3.1\Calculator_Projek_Kelompok.csproj.AssemblyReference.cache
+D:\source\repos\Calculator_Projek_Kelompok\obj\Debug\netcoreapp3.1\Calculator_Projek_Kelompok.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\Calculator_Projek_Kelompok\obj\Debug\netcoreapp3.1\Calculator_Projek_Kelompok.AssemblyInfoInputs.cache
+D:\source\repos\Calculator_Projek_Kelompok\obj\Debug\netcoreapp3.1\Calculator_Projek_Kelompok.AssemblyInfo.cs
+D:\source\repos\Calculator_Projek_Kelompok\obj\Debug\netcoreapp3.1\Calculator_Projek_Kelompok.csproj.CoreCompileInputs.cache
+D:\source\repos\Calculator_Projek_Kelompok\obj\Debug\netcoreapp3.1\Calculator_Projek_Kelompok.csproj.CopyComplete
+D:\source\repos\Calculator_Projek_Kelompok\obj\Debug\netcoreapp3.1\Calculator_Projek_Kelompok.dll
+D:\source\repos\Calculator_Projek_Kelompok\obj\Debug\netcoreapp3.1\Calculator_Projek_Kelompok.pdb
+D:\source\repos\Calculator_Projek_Kelompok\obj\Debug\netcoreapp3.1\Calculator_Projek_Kelompok.genruntimeconfig.cache
